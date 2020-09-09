@@ -1,0 +1,2 @@
+# Mani
+My directory
